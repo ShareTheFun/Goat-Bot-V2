@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "martjohnlabaco24@gmail.com",
+		"password": "Jmlabaco",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"61566132310517"
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
