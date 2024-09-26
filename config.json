@@ -42,10 +42,10 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "martjohnlabaco24@gmail.com",
+			"clientId": "1048819966851-vddkmv53jnhqnt5ftodab1letckoi9je.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04dfjRqXPeb-yCgYIARAAGAQSNwF-L9IrNYF6lGOOMnKULiRqBUFLGED3Xlu3YrkcLNqyAyxzLYo-R2K_-65qJBd1Hb62SleMFRM",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
