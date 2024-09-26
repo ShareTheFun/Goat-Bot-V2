@@ -49,8 +49,8 @@
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LcRHlAqAAAAAEmr_XVOZLL7cf92P7_juY0n5uDa",
+			"secretKey": "6LcRHlAqAAAAAPHb_xjE5cp6POMBxMsv1tf7ZbOa"
 		}
 	},
 	"dashBoard": {
