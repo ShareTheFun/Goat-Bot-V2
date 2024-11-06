@@ -1,7 +1,7 @@
 {
-	"facebookAccount": {
-		"email": "",
-		"password": "",
+	"facebookAccount": {}		
+	        "email": "martjohnlabaco24@gmail.com",
+		"password": "Jmlabaco",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"61550941044179"
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,15 +42,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "labacodumpcss@gmail.com",
+			"clientId": "267815243803-ru1emlapaiv7ajc0mptc0tvt0913f6ag.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04215Qlj9IS-nCgYIARAAGAQSNwF-L9IrcBiEr3_POOl4SIp4fcvArOG03hROljv-TV1xq3WBnzdYYrXBBCcjqp28H1_cHlZR3s8",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LdPAXQqAAAAAKQO0Qu13y6Sz2O8S0iNEt4uWXVi",
+			"secretKey": "6LdPAXQqAAAAAChakuAnUzzdCWLD74UfYCtoaOvC"
 		}
 	},
 	"dashBoard": {
